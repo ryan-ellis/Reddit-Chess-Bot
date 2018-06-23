@@ -1,9 +1,8 @@
 # Reddit-Chess-Bot
 
-Reddit Bot created using PRAW that attempts to find professional chess games with a provided FEN input. You can view the bot's account [here](https://reddit.com/user/FENFinderBot).
+Reddit Bot created using PRAW that attempts to find professional chess games with a provided FEN input. 
 
 ## How to use it
-
 To call the bot in any comment thread, simply use the command:
 
 ```
@@ -25,6 +24,8 @@ An example of an **invalid** command:
 It's important to include the __entire__ FEN with the command. Do not attempt to trim the FEN code as this will result in an error.
 
 ## What it looks like
+
+You can view the bot's account [here](https://reddit.com/user/FENFinderBot).
 
 ![Demo of Chess Bot in action.](https://i.imgur.com/Gqw9k0q.png)
 
