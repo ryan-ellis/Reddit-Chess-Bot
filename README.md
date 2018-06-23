@@ -10,19 +10,22 @@ To call the bot in any comment thread, simply use the command:
 !FENFinder [Insert FEN here]
 ```
 
-An example of a valid command:
+
+An example of a **valid** command:
 
 ```
 !FENFinder rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1
 ```
 
-An example of an invalid command:
+
+An example of an **invalid** command:
 
 ```
 !FENFinder rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR
 ```
 
-It's important to include the entire FEN with the command. Do not attempt to trim the FEN code as this will result in an error.
+
+It's important to include the __entire__ FEN with the command. Do not attempt to trim the FEN code as this will result in an error.
 
 ## What it looks like
 
